@@ -1,0 +1,11 @@
+Model Information:
+* title:	Electronic Circuit
+* source:	https://sketchfab.com/3d-models/electronic-circuit-d949cd04b6964da6a05063ea31d5c232
+* author:	Nico Arch (https://sketchfab.com/nico-arch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Electronic Circuit" (https://sketchfab.com/3d-models/electronic-circuit-d949cd04b6964da6a05063ea31d5c232) by Nico Arch (https://sketchfab.com/nico-arch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
